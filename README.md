@@ -40,11 +40,6 @@ This project was built to practice front-end skills and understand how real-worl
 
 ---
 
-## 👨‍💻 Author
-
-Gangadhar kuratti.
-
----
 
 ## ⭐ Acknowledgement
 
