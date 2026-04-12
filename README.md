@@ -1,4 +1,4 @@
-# 🌸 Liora Cosmetic Products Website
+# Liora Cosmetic Products Website
 
 ## 📌 Project Overview
 
@@ -7,15 +7,15 @@ This project was developed as part of a workshop to learn modern web design and 
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🎨 Attractive clicks of cosmetic products
-* 🛍️ Product display sections
-* ⚡ Simple and clean structure
+* Attractive clicks of cosmetic products
+* Product display sections
+* Simple and clean structure
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -41,7 +41,7 @@ This project was built to practice front-end skills and understand how real-worl
 ---
 
 
-## ⭐ Acknowledgement
+## Acknowledgement
 
 Thanks to the workshop instructor for guiding and teaching the concepts of web development.
 
